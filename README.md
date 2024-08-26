@@ -1,5 +1,5 @@
 
-[]====[SkyOnlyUp]====[]
+# []====[SkyOnlyUp]====[]
 
 Information:
 Name: SkyOnlyUp
@@ -13,7 +13,7 @@ Github: https://github.com/qs-Luca/SkyOnlyUp
 Discord: https://discord.gg/qSB86525C
 Latest supportet version: 1.0.0
 
-#[]===============================[]
+# []===============================[]
 
 
 # []====[Commands]====[]
