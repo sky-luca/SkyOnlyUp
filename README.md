@@ -42,7 +42,7 @@ the OnlyUp challenge.
 This plugin/ ressource include a version of an OnlyUp map so all coords are based on this map. Feel free to use. 
 If you use this map you don't have to changer any settings only if you want that!
 
-#[]===============================[]
+# []===============================[]
 
 
 
