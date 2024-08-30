@@ -34,7 +34,7 @@ Description: Provides a reward or gift to the player upon completing the OnlyUp 
 Usage: This command is used to grant a reward or special item to the player who has successfully completed
 the OnlyUp challenge.
 
-#[]===============================[]
+# []===============================[]
 
 
 
