@@ -4,8 +4,8 @@
 Information:
 Name: SkyOnlyUp
 Developer: SkyScripts Studios | Luca
-Version: 1.0.0
-Minecraft version: 1.20
+Version: 1.0.1
+Minecraft version: 1.20, 1.8, 1.19
 
 Support:
 Support: https://www.skyscripts.net
