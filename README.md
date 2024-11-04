@@ -3,14 +3,13 @@
 
 Information:
 Name: SkyOnlyUp
-Developer: SkyScripts Studios | Luca
+Developer: Luca
 Version: 1.0.1
 Minecraft version: 1.20, 1.8, 1.19
 
 Support:
-Support: https://www.skyscripts.net
+Support: https://www.luca-info.com
 Github: https://github.com/qs-Luca/SkyOnlyUp
-Discord: https://discord.gg/qSB86525C
 Latest supportet version: 1.0.0
 
 # []===============================[]
